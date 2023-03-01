@@ -1,0 +1,22 @@
+[
+    {
+        "regiao": "SP",
+        "valor": 67836.43
+    },
+    {
+        "regiao": "RJ",
+        "valor": 36678.66
+    },
+    {
+        "regiao": "MG",
+        "valor": 29229.88
+    },
+    {
+        "regiao": "ES",
+        "valor": 27165.48
+    },
+    {
+        "regiao": "Outros",
+        "valor": 19849.53
+    }
+]
